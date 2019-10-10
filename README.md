@@ -17,7 +17,8 @@ The data is collected, organized, and made public on the [Citi Bike Data](https:
 
 1: The peak hours during a day is usually 7-8 AM and 5-6 PM throughout the year.
 
-![image](Images/Summer Peak Hours.png) ![image](Images/Winter Peak Hours.png)
+![image](Images/Summer Peak Hours.png)
+![image](Images/Winter Peak Hours.png)
 
 2: As compared to the summer months the total ridership value goes down by a significant amount during the winter months.
 
