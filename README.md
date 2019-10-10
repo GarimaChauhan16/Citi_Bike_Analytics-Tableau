@@ -26,6 +26,8 @@ The data is collected, organized, and made public on the [Citi Bike Data](https:
 
 3: The major bike riders fall into the age group of 25-30 and 45-50 years of males. However the ridership among female users seems to increase over time.
 
+The peak at the age group of 45-50 years may also be due to the wrong birth year input at the user end.
+
 ![image](Images/gender.png) 
 ![image](Images/age.png) 
 ![image](Images/female.png) 
