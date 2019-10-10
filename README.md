@@ -2,7 +2,7 @@
 # Citi-Bike-Analytics
 
 
-Click [here] (https://public.tableau.com/profile/garima3725#!/vizhome/City_Bike_Analytics_15706787116550/TotalTrips?publish=yes) to open the workbook.
+Click ![here] (https://public.tableau.com/profile/garima3725#!/vizhome/City_Bike_Analytics_15706787116550/TotalTrips?publish=yes) to open the workbook.
 
 
 The objective of this exercise is to create a dashboard for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program.
