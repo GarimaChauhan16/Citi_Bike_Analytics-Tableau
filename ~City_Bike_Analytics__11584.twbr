@@ -2877,7 +2877,7 @@
       </viewpoint>
       <simple-id uuid='{45FA8447-055D-4990-82F4-A4C7015C7777}' />
     </window>
-    <window class='worksheet' maximized='true' name='Female Ridership over the Months'>
+    <window class='worksheet' name='Female Ridership over the Months'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -3089,7 +3089,7 @@
       <active id='-1' />
       <simple-id uuid='{24604437-E0B8-4B9C-A002-BC499F33F8C8}' />
     </window>
-    <window class='dashboard' name='Gender Data'>
+    <window class='dashboard' maximized='true' name='Gender Data'>
       <viewpoints>
         <viewpoint name='Female Ridership over the Months'>
           <zoom type='entire-view' />
